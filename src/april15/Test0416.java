@@ -8,6 +8,7 @@ public class Test0416 {
 		// for (i = 0; i < 3; i = i + 1)
 		// System.out.println(i); // iの値を出力し改行
 
+		// HelloWorld!!!!!!!!
 
 	}
 
